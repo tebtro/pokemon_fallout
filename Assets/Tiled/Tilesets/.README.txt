@@ -1,0 +1,1 @@
+//Tilesets are saved in the corresponding directory in PokémonEssentials
